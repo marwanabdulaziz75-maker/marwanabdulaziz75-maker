@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋! My name is marwan and I'm a programer, from Egypt</h1>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwanabdulaziz75-maker&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marwanabdulaziz75-maker&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=marwanabdulaziz75-maker&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
 </div>
 <br/>
 <div align="left">
@@ -26,5 +25,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marwanabdulaziz75-maker.marwanabdulaziz75-maker&" />
 </div>
-<br/>
-
