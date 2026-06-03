@@ -2,6 +2,7 @@
 <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marwanabdulaziz75-maker&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marwanabdulaziz75-maker&theme=tokyonight" height="150" alt="languages graph" />
 </div>
 <br/>
 <div align="left">
