@@ -6,6 +6,7 @@ _____________________________________________________________________________
   <img src="https://raw.githubusercontent.com/marwanabdulaziz75-maker/marwanabdulaziz75-maker/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/marwanabdulaziz75-maker/marwanabdulaziz75-maker/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
+____________________________________________________________________________________________________________________________________
 
 <br/>
 
@@ -20,6 +21,7 @@ _____________________________________________________________________________
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
 </div>
+___________________________________________________________________________________________________________________________________
 
 <br/>
 
@@ -28,6 +30,7 @@ _____________________________________________________________________________
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
 </div>
+________________________________________________________________________________________________________________________________________
 
 <br/>
 
